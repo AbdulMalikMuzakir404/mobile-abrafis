@@ -63,7 +63,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                             color: Colors.black),
                       ),
                     ),
-                    const SizedBox(
+                    SizedBox(
                       height: 20,
                     ),
                     TextField(
